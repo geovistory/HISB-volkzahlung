@@ -1,0 +1,17 @@
+name: py39_hisb
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+  - sparqlwrapper
+  - python=3.9
+  - rdflib
+  - ipykernel
+  - ipywidgets
+  - seaborn
+  - networkx
+  - dotmap
+
+    
